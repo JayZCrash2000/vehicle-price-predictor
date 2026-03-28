@@ -77,7 +77,7 @@ jupyter notebook vehicle_price_predictor.ipynb
 - Car **age** and **mileage** are the strongest predictors of price depreciation
 - **Diesel cars** retain value longer than petrol in the Indian market
 - **Brand premium** (luxury vs economy) adds significant non-linear variance
-- Gradient Boosting outperforms Linear Regression by ~26% in R²
+
 
 ---
 
