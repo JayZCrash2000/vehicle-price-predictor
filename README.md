@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26325898/README.md)
+
 #  Vehicle Price Predictor
 
 A machine learning project to predict used vehicle prices based on features like brand, model, mileage, fuel type, and year of manufacture. Built with real-world data preprocessing, exploratory data analysis, and multiple ML models with hyperparameter tuning.
