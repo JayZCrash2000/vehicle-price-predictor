@@ -56,11 +56,8 @@ vehicle-price-predictor/
 
 ##  Results
 
-| Model | R² Score | RMSE |
-|---|---|---|
-| Linear Regression | ~0.72 | ~1.8L |
-| Random Forest | ~0.89 | ~1.1L |
-| Gradient Boosting | ~0.91 | ~0.95L |
+<img width="529" height="92" alt="image" src="https://github.com/user-attachments/assets/642a4d3c-10a9-45a7-af6f-d557a9293f80" />
+
 
 > *Results based on synthetic dataset mimicking real used car market data.*
 
